@@ -86,7 +86,7 @@ Eager to stay at the forefront of technological advancements, I am committed to 
 
 
 ## Get in Touch
-- LinkedIn: [Prasanna Balaji G S](https://www.linkedin.com/in/logeshwaran-y-s-48371b1a2/)
+- LinkedIn: [Logeshwaran Y S](https://www.linkedin.com/in/logeshwaran-y-s-48371b1a2/)
 - Email: [yogalakshmisingara.l@northeastern.edu](mailto:yogalakshmisingara.l@northeastern.edu)
 
 ## Let's Collaborate!
