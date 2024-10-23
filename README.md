@@ -70,11 +70,8 @@ Eager to stay at the forefront of technological advancements, I am committed to 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prasannags/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasannags/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://jslearn.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://jslearn.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://medium.com/@gsprasanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gsprasanna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/prasannags" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prasannags" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gs_prasannabalaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gs_prasannabalaji" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/logeshwaran-y-s-48371b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/logeshwaran-y-s-48371b1a2/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yslogesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="logeshwaran_ys" height="30" width="40" /></a>
 </p>
 
 
@@ -87,18 +84,11 @@ Eager to stay at the forefront of technological advancements, I am committed to 
 - 🌐 Web Development: Building scalable responsive web applications with cutting-edge technologies.
 - 🚀 Continuous Learning: Always eager to expand my knowledge and embrace new technologies and methodologies.
 
-Feel free to check out my [portfolio](https://gsprasannabalaji.netlify.app/) for more projects!
 
 ## Get in Touch
-- LinkedIn: [Prasanna Balaji G S](https://www.linkedin.com/in/prasanna-balaji-gs/)
-- Email: [govindarajalusaras.p@northeastern.edu](mailto:govindarajalusaras.p@northeastern.edu)
+- LinkedIn: [Prasanna Balaji G S](https://www.linkedin.com/in/logeshwaran-y-s-48371b1a2/)
+- Email: [yogalakshmisingara.l@northeastern.edu](mailto:yogalakshmisingara.l@northeastern.edu)
 
 ## Let's Collaborate!
 I'm always open to new opportunities and collaborations. If you have a project in mind or just want to say hi, feel free to reach out! 😊
 
-[![An image of @gsprasannabalaji's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gsprasannabalaji)](https://holopin.io/@gsprasannabalaji)
-
-<!---
-gsprasannabalaji/gsprasannabalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
